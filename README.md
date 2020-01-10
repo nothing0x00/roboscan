@@ -10,8 +10,11 @@ and then run a fuzzing attack on the target site using a specified dictionary. I
 ### Installation and Use
 
 To get roboscan running just do the following:
+
 `git clone `
+
 `pip3 install requirements.txt`
+
 `python3 roboscan.py [-h][-t target][-d dictionary]`
 
 ### Note: This is an older codebase that is in a process of rewrite with new functionality added...Coming soon
